@@ -16,6 +16,8 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         img = (ImageView) findViewById(R.id.img);
+
+        //Picasso基本使用
         //这个方法是获取图片加载的位置,内存,本地(磁盘),网络?
         //设置为true在左上角会有一个颜色的三角,绿色内存,蓝色本地磁盘,红色网络
 //        Picasso.with(this).setIndicatorsEnabled(true);
