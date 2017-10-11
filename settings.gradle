@@ -1,0 +1,1 @@
+include ':app', ':GitHubLibrary', ':rxjavatest', ':retrofittest', ':mvp_rxjava_retrofit', ':mvprxjavaretrofit02', ':MvpRxJavaRetrofit03', ':mycustomscicle(自定义圆形图片)', ':myround(自定义圆角图片)', ':myprogressbar(自定义圆环进度条)02', ':mycustomscircle(自定义圆形图片)02', ':myroud02(自定义圆角图片)', ':mycustom(自定义圆环进度条)', ':my自定义三角形图片', ':my自定义心图片', ':picasso图片加载框架'
